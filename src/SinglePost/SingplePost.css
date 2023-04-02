@@ -3,4 +3,11 @@
     color: white;
     background-color: gray;
     margin: 5px;
+    border-radius: 20px;
+}
+
+.postd{
+    border: 1px solid gainsboro;
+    color: white;
+    margin-right: 3px;
 }
